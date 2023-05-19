@@ -10,6 +10,7 @@
     <color name="background">#0a0a0a</color>
     <color name="searchbar">#6c6c6c</color>
     <color name="navbar">#212325</color>
+    <color name="inactive">#2A2A2A</color>
 
 
 </resources>
